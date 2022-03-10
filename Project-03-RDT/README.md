@@ -1,6 +1,6 @@
 
 
-Project 2 – Reliable Data Transmission (RDT) 
+Project 3 – Reliable Data Transmission (RDT) 
 
 
 
